@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>octarmumblars | juicebox, by greekfellows</title>
+  <subtitle>pseudo-randomness</subtitle>
+  <id>http://greekfellows.github.io/blog</id>
+  <link href="http://greekfellows.github.io/blog"/>
+  <link href="http://greekfellows.github.io/octarmumblars/feed.xml" rel="self"/>
+  <author>
+    <name>greekfellows</name>
+  </author>
+</feed>
